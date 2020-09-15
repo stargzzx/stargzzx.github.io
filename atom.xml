@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Miss.Zhang</title>
+  <title>Hexo</title>
   
   <subtitle>陕西师范大学智能感知与先进计算研究中心传承系统</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://stargzzx.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://stargzzx.github.io/"/>
   <updated>2020-09-15T10:31:28.056Z</updated>
-  <id>http://example.com/</id>
+  <id>https://stargzzx.github.io/</id>
   
   <author>
     <name>Mr.li</name>
@@ -18,35 +18,35 @@
   
   <entry>
     <title>大学生创新创业大赛</title>
-    <link href="http://example.com/2020/09/14/ncss/"/>
-    <id>http://example.com/2020/09/14/ncss/</id>
+    <link href="https://stargzzx.github.io/2020/09/14/ncss/"/>
+    <id>https://stargzzx.github.io/2020/09/14/ncss/</id>
     <published>2020-09-14T11:23:54.000Z</published>
     <updated>2020-09-15T10:31:28.056Z</updated>
     
     
     
     
-    <category term="比赛" scheme="http://example.com/categories/%E6%AF%94%E8%B5%9B/"/>
+    <category term="比赛" scheme="https://stargzzx.github.io/categories/%E6%AF%94%E8%B5%9B/"/>
     
     
-    <category term="互联网+" scheme="http://example.com/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
+    <category term="互联网+" scheme="https://stargzzx.github.io/tags/%E4%BA%92%E8%81%94%E7%BD%91/"/>
     
   </entry>
   
   <entry>
     <title>网站介绍『架构、规则』</title>
-    <link href="http://example.com/2020/09/13/webdesign/"/>
-    <id>http://example.com/2020/09/13/webdesign/</id>
+    <link href="https://stargzzx.github.io/2020/09/13/webdesign/"/>
+    <id>https://stargzzx.github.io/2020/09/13/webdesign/</id>
     <published>2020-09-13T10:23:54.000Z</published>
     <updated>2020-09-15T10:33:05.600Z</updated>
     
     
     
     
-    <category term="网站" scheme="http://example.com/categories/%E7%BD%91%E7%AB%99/"/>
+    <category term="网站" scheme="https://stargzzx.github.io/categories/%E7%BD%91%E7%AB%99/"/>
     
     
-    <category term="介绍" scheme="http://example.com/tags/%E4%BB%8B%E7%BB%8D/"/>
+    <category term="介绍" scheme="https://stargzzx.github.io/tags/%E4%BB%8B%E7%BB%8D/"/>
     
   </entry>
   
