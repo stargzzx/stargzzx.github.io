@@ -6,7 +6,7 @@
   <link href="https://stargzzx.github.io/atom.xml" rel="self"/>
   
   <link href="https://stargzzx.github.io/"/>
-  <updated>2020-09-16T13:27:25.347Z</updated>
+  <updated>2020-09-16T13:35:03.755Z</updated>
   <id>https://stargzzx.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://stargzzx.github.io/9020/09/14/lab/"/>
     <id>https://stargzzx.github.io/9020/09/14/lab/</id>
     <published>9020-09-14T11:23:54.000Z</published>
-    <updated>2020-09-16T13:27:25.347Z</updated>
+    <updated>2020-09-16T13:35:03.755Z</updated>
     
     <content type="html"><![CDATA[<p>插件祖网站正在构建，请访问其他组件！</p>]]></content>
     
@@ -46,14 +46,16 @@
     <link href="https://stargzzx.github.io/8020/09/14/project/"/>
     <id>https://stargzzx.github.io/8020/09/14/project/</id>
     <published>8020-09-14T11:23:54.000Z</published>
-    <updated>2020-09-16T13:29:03.435Z</updated>
+    <updated>2020-09-16T13:34:38.469Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://stargzzx.github.io/project/" alt="实验室项目网站"></p>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://stargzzx.github.io/project/">实验室项目网站</a></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://stargzzx.github.io/project/&quot; alt=&quot;实验室项目网站&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://stargzzx.github.io/project/&quot;&gt;实验室项目网站&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </summary>
       
     
@@ -71,14 +73,16 @@
     <link href="https://stargzzx.github.io/7020/09/14/ncss/"/>
     <id>https://stargzzx.github.io/7020/09/14/ncss/</id>
     <published>7020-09-14T11:23:54.000Z</published>
-    <updated>2020-09-16T13:28:26.875Z</updated>
+    <updated>2020-09-16T13:34:58.862Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://stargzzx.github.io/ncss/" alt="互联网+比赛网站"></p>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://stargzzx.github.io/ncss/">互联网+比赛网站</a></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://stargzzx.github.io/ncss/&quot; alt=&quot;互联网+比赛网站&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://stargzzx.github.io/ncss/&quot;&gt;互联网+比赛网站&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </summary>
       
     
@@ -96,14 +100,16 @@
     <link href="https://stargzzx.github.io/2020/09/14/tools/"/>
     <id>https://stargzzx.github.io/2020/09/14/tools/</id>
     <published>2020-09-14T11:23:54.000Z</published>
-    <updated>2020-09-16T13:29:46.476Z</updated>
+    <updated>2020-09-16T13:34:32.312Z</updated>
     
-    <content type="html"><![CDATA[<p><img src="https://stargzzx.github.io/tools/" alt="实验室工具网站"></p>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://stargzzx.github.io/tools/">实验室工具网站</a></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;&lt;img src=&quot;https://stargzzx.github.io/tools/&quot; alt=&quot;实验室工具网站&quot;&gt;&lt;/p&gt;
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://stargzzx.github.io/tools/&quot;&gt;实验室工具网站&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </summary>
       
     
