@@ -6,7 +6,7 @@
   <link href="https://stargzzx.github.io/atom.xml" rel="self"/>
   
   <link href="https://stargzzx.github.io/"/>
-  <updated>2020-09-15T10:31:28.056Z</updated>
+  <updated>2020-09-16T12:44:30.116Z</updated>
   <id>https://stargzzx.github.io/</id>
   
   <author>
@@ -17,11 +17,45 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>实验室简介</title>
+    <link href="https://stargzzx.github.io/9020/09/14/lab/"/>
+    <id>https://stargzzx.github.io/9020/09/14/lab/</id>
+    <published>9020-09-14T11:23:54.000Z</published>
+    <updated>2020-09-16T12:44:30.116Z</updated>
+    
+    
+    
+    
+    <category term="实验室" scheme="https://stargzzx.github.io/categories/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+    
+    
+    <category term="实验室" scheme="https://stargzzx.github.io/tags/%E5%AE%9E%E9%AA%8C%E5%AE%A4/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>项目记录</title>
+    <link href="https://stargzzx.github.io/8020/09/14/project/"/>
+    <id>https://stargzzx.github.io/8020/09/14/project/</id>
+    <published>8020-09-14T11:23:54.000Z</published>
+    <updated>2020-09-16T12:38:49.097Z</updated>
+    
+    
+    
+    
+    <category term="项目" scheme="https://stargzzx.github.io/categories/%E9%A1%B9%E7%9B%AE/"/>
+    
+    
+    <category term="项目" scheme="https://stargzzx.github.io/tags/%E9%A1%B9%E7%9B%AE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>大学生创新创业大赛</title>
-    <link href="https://stargzzx.github.io/2020/09/14/ncss/"/>
-    <id>https://stargzzx.github.io/2020/09/14/ncss/</id>
-    <published>2020-09-14T11:23:54.000Z</published>
-    <updated>2020-09-15T10:31:28.056Z</updated>
+    <link href="https://stargzzx.github.io/7020/09/14/ncss/"/>
+    <id>https://stargzzx.github.io/7020/09/14/ncss/</id>
+    <published>7020-09-14T11:23:54.000Z</published>
+    <updated>2020-09-16T12:55:28.149Z</updated>
     
     
     
@@ -34,19 +68,19 @@
   </entry>
   
   <entry>
-    <title>网站介绍『架构、规则』</title>
-    <link href="https://stargzzx.github.io/2020/09/13/webdesign/"/>
-    <id>https://stargzzx.github.io/2020/09/13/webdesign/</id>
-    <published>2020-09-13T10:23:54.000Z</published>
-    <updated>2020-09-15T10:33:05.600Z</updated>
+    <title>常用网站/工具</title>
+    <link href="https://stargzzx.github.io/2020/09/14/tools/"/>
+    <id>https://stargzzx.github.io/2020/09/14/tools/</id>
+    <published>2020-09-14T11:23:54.000Z</published>
+    <updated>2020-09-16T12:47:16.640Z</updated>
     
     
     
     
-    <category term="网站" scheme="https://stargzzx.github.io/categories/%E7%BD%91%E7%AB%99/"/>
+    <category term="工具" scheme="https://stargzzx.github.io/categories/%E5%B7%A5%E5%85%B7/"/>
     
     
-    <category term="介绍" scheme="https://stargzzx.github.io/tags/%E4%BB%8B%E7%BB%8D/"/>
+    <category term="工具" scheme="https://stargzzx.github.io/tags/%E5%B7%A5%E5%85%B7/"/>
     
   </entry>
   
