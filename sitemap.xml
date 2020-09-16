@@ -2,13 +2,6 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://stargzzx.github.io/7020/09/14/ncss/</loc>
-    
-    <lastmod>2020-09-16</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://stargzzx.github.io/2020/09/14/tools/</loc>
     
     <lastmod>2020-09-16</lastmod>
@@ -16,14 +9,21 @@
   </url>
   
   <url>
-    <loc>https://stargzzx.github.io/9020/09/14/lab/</loc>
+    <loc>https://stargzzx.github.io/8020/09/14/project/</loc>
     
     <lastmod>2020-09-16</lastmod>
     
   </url>
   
   <url>
-    <loc>https://stargzzx.github.io/8020/09/14/project/</loc>
+    <loc>https://stargzzx.github.io/7020/09/14/ncss/</loc>
+    
+    <lastmod>2020-09-16</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://stargzzx.github.io/9020/09/14/lab/</loc>
     
     <lastmod>2020-09-16</lastmod>
     
