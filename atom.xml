@@ -6,7 +6,7 @@
   <link href="https://stargzzx.github.io/atom.xml" rel="self"/>
   
   <link href="https://stargzzx.github.io/"/>
-  <updated>2020-09-16T13:35:03.755Z</updated>
+  <updated>2020-09-19T13:00:29.979Z</updated>
   <id>https://stargzzx.github.io/</id>
   
   <author>
@@ -21,14 +21,16 @@
     <link href="https://stargzzx.github.io/9020/09/14/lab/"/>
     <id>https://stargzzx.github.io/9020/09/14/lab/</id>
     <published>9020-09-14T11:23:54.000Z</published>
-    <updated>2020-09-16T13:35:03.755Z</updated>
+    <updated>2020-09-19T13:00:29.979Z</updated>
     
-    <content type="html"><![CDATA[<p>插件祖网站正在构建，请访问其他组件！</p>]]></content>
+    <content type="html"><![CDATA[<ul><li><a href="https://stargzzx.github.io/lab/">实验室简介</a></li></ul>]]></content>
     
     
       
       
-    <summary type="html">&lt;p&gt;插件祖网站正在构建，请访问其他组件！&lt;/p&gt;
+    <summary type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://stargzzx.github.io/lab/&quot;&gt;实验室简介&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
 </summary>
       
     
